@@ -1,10 +1,30 @@
-To run this file :
- -- frontend--
- cd frontend
- >>> npm i
- >>> npm run dev
+# How to Run This Project
 
- --- backend --
- cd backend
- >>> npm i
- >>> npm run dev
+## Frontend
+1. Navigate to the `frontend` directory:
+   ```bash
+   cd frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm i
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Backend
+1. Navigate to the `backend` directory:
+   ```bash
+   cd backend
+   ```
+2. Install dependencies:
+   ```bash
+   npm i
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
